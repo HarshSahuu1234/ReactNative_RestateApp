@@ -428,10 +428,3 @@ Assets and snippets used in the project can be found in the **[video kit](https:
 
 Appwrite Database Setup can be found [here](https://jsmastery.notion.site/Database-Setup-16260f3cbaf3807f8fb6cbed8d1e84fd)
 
-<a href="https://jsm.dev/rn25-restate" target="_blank">
-  <img src="assets/readme/videokit.webp" alt="Video Kit Banner">
-</a>
-
-
-   <img src="assets/readme/jsmpro.webp" alt="Project Banner">
-</a>
